@@ -4,8 +4,8 @@ In this project, I implemented a simple breakout strategy. I tested to see if it
 ## Installation
 Use `git clone` to get a copy of this repository.
 ```
-$ git clone https://github.com/lucaskienast/algotrading_RNN_sentiment_analysis_StockTwits.git
-$ cd algotrading_random_forest_enhanced_alpha
+$ git clone https://github.com/lucaskienast/algotrading_breakout_strategy.git
+$ cd algotrading_breakout_strategy
 ```
 
 ## Method
